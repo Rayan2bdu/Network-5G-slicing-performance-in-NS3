@@ -1,0 +1,3 @@
+Device,Throughput(Mbps),PacketLoss(%),Energy(J)
+Industrial Robot,93.98,0.038,5.57
+Autonomous Drone,88.24,0.030,4.84

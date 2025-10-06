@@ -1,0 +1,3 @@
+Device,Throughput(Mbps),PacketLoss(%),Energy(J)
+Smart Meter,7.85,2.474,0.21
+Weather Sensor,9.02,1.609,0.38
